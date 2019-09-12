@@ -1,4 +1,5 @@
 """ THIS IS WHERE YOU DO YOUR CONFIGURATION """
+''' RENAME THIS FILE TO "config.py" AFTER DOING CHANGES '''
 
 ''' Your twitch username IN LOWERCASE'''
 user = "gameruiner9000"
